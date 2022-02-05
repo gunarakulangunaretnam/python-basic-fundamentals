@@ -1,9 +1,8 @@
-def sayHello():
-	print("Hi, This is a simple computer program!")
+def printName(name):
+	print(f"Hello, My name is {name}")
 
 
-sayHello()
+printName("David")
+printName("Guna")
+printName("Frank")
 
-
-for x in range(100):
-	sayHello()
