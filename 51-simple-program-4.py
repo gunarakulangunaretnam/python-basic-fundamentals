@@ -1,11 +1,10 @@
-import random
+while True:
 
-data = "qwertyuiop[]asdfghjkl;'zxcvbnm,./`1234567890-=QWERTYUIOP{}|ASDFGHJKL:ZXCVBNM<>?~!@#$%^&*()_+"
+	user_input = input("Enter something: ")
 
-length = int(input("Please enter the length of the password that you want to generate? "))
+	f = open("data.txt", "at")
+	f.write(user_input+"\n")
 
-generated_password = "".join(random.sample(data, length))
-
-print(f"The generated password is:- {generated_password}")
-
-
+	if(user_input == "[STOP]"):
+		f.close()
+		break
