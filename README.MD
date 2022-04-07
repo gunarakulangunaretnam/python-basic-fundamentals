@@ -21,7 +21,7 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 Any Questions? | Conduct Me
 ---
 
-* [Linkedin Profile](https://www.linkedin.com/in/gunarakulan-gunaretnam-161119156/)
+* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam)
 * [Facebook Profile](https://www.facebook.com/gunarakulan)
 * [Twitter Profile](https://twitter.com/gunarakulang)
 * [Instagram Profile](https://www.instagram.com/gunarakulan_gunaretnam/)
