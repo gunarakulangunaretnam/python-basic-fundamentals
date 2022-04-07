@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![Image](github-readme-contents/banner.png)
+
 This repository contains scripts that explains the basic fundamentals of Python programming. This is  very useful for beginner programmers to learn Python and use these scripts as references to code when they need helps.
 
 This scripts are based on a YouTube tutorial that was posted as playlist at GR Tech School Channel.
